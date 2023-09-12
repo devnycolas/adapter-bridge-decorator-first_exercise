@@ -1,4 +1,3 @@
-// Em PagamentoAdapter.java
 interface PaymentAdapter {
     void pagar(double valor);
 }

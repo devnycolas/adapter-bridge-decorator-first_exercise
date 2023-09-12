@@ -1,4 +1,3 @@
-// Em Pizza.java
 interface Pizza {
     void montarPizza();
 }
